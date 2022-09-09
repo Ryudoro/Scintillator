@@ -1,1 +1,1 @@
-# Scintillator
+# Scintillator Simulation
