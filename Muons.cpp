@@ -27,7 +27,7 @@ void Muons::beam(Material& Scint)
 {
 
 	//Adding ; separation in the file to distinguish each muon.
-	std::fstream fichier("C:\\Users\\treym\\Documents\\Code\\Python\\SiPm\\test.txt", std::ios::app);
+	std::fstream fichier("photons.txt", std::ios::app);
 	fichier << ";" << std::endl;
 	fichier.close();
 
